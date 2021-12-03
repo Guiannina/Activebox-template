@@ -1,0 +1,173 @@
+body {
+  font-family: "Raleway", sans-serif;
+}
+
+header {
+  background-image: url(../img/fondo-header.jpg);
+  font-family: "Raleway", sans-serif;
+  height: 750px;
+}
+
+.nav-item {
+  font-size: 13px;
+}
+
+hr {
+  color: #fff;
+  width: 80%;
+}
+
+.primero {
+  font-size: 4rem;
+  font-family: "Open Sans", sans-serif;
+  margin-top: 150px;
+}
+
+.primero-p {
+  font-size: 22px;
+}
+
+.container-galery {
+  margin-right: -65px;
+  margin-left: -165px;
+}
+
+.btn-danger {
+  width: 200px;
+  font-size: 13px;
+}
+
+.card-img-top-1 {
+  width: 60px;
+  height: 60px;
+}
+
+.card-img-top-2 {
+  width: 73px;
+  height: 60px;
+}
+
+.card-img-top-3 {
+  width: 41px;
+  height: 60px;
+}
+
+.card-img-top-4 {
+  width: 56px;
+  height: 60px;
+}
+
+.card-img-top-5 {
+  width: 72px;
+  height: 60px;
+}
+
+.card-img-top-6 {
+  width: 79px;
+  height: 60px;
+}
+
+.card-title {
+  font-size: 14px;
+  font-weight: bolder;
+}
+
+.card-text {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.card-img-galeria {
+  width: 480px;
+  height: 350px;
+}
+
+.card-img-perfiles {
+  width: 270px;
+  border-radius: 0;
+}
+
+.card-title-2 {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.text-danger {
+  font-size: 13px;
+  font-weight: bolder;
+}
+
+.card-text-2 {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.fab.fa-facebook,
+.fab.fa-twitter,
+.fab.fa-linkedin {
+  color: #a0a0a0;
+  font-size: 15px;
+  line-height: 30px;
+  padding: 0 8px;
+}
+
+.container-perfil {
+  margin-top: 80px;
+}
+
+h1.download {
+  font-size: 28px;
+}
+
+p.download {
+  font-size: 13px;
+}
+
+.btn-download {
+  font-size: 13px;
+  width: 300px;
+}
+
+.container-final {
+  margin-top: 80px;
+  background-color: #3a3e64;
+}
+
+.titulo-final {
+  margin-top: 70px;
+  font-size: 14px;
+}
+
+.container-copyright {
+  background-color: #313454;
+  height: 95px;
+}
+
+p.final {
+  color: #7b7b7d;
+}
+
+.carousel-caption {
+  bottom: 7.25rem;
+  text-align: start;
+}
+
+.h-slide {
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.p-slide {
+  font-family: "Cardo", serif;
+  font-size: 36px;
+  font-style: italic;
+}
+
+.row {
+  --bs-gutter-x:0;
+}
+
+.container-p {
+  margin-right: -165px;
+  margin-left: -165px;
+}/*# sourceMappingURL=estilos.css.map */
